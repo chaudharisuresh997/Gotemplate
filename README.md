@@ -6,5 +6,7 @@ run command to set GOPATH
 
 export GOPATH=$(pwd)
 run
->go build
->go run main.go
+go build
+
+
+go run main.go
