@@ -5,7 +5,8 @@ Go to GoTemplate directory
 run command to set GOPATH
 
 export GOPATH=$(pwd)
-run
+
+
 go build
 
 
